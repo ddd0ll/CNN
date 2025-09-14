@@ -33,6 +33,3 @@ How to use it
  1. Clone the repository
 bash git clone https://github.com/TU-USUARIO/cnn-cifar10.git
 cd cnn-cifar10
-
-
-Translated with DeepL.com (free version)
